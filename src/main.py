@@ -11,3 +11,5 @@ sys.path.insert(0, os.path.join(current_path, "../pymuk-4.0.0"))
 
 pygame.init()
 screen = pygame.display.set_mode((1200,650))
+while(1):
+	pass
